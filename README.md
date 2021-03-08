@@ -1,4 +1,4 @@
-App made with React and Typescript that allows the user to search for Pokemons and display them together with several of their characteristics. Data from the PokéApi (https://pokeapi.co/)
+App made with React and Typescript that allows the user to search for Pokemons and display them together with several of their characteristics. Data from the RESTful Pokémon API (https://pokeapi.co/)
 
 Deployed: https://hardcore-tereshkova-5c5fe0.netlify.app/
 
