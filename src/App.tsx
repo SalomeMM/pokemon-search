@@ -7,7 +7,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <PokemonSearch name="John Doe" numberOfPokemons={5}/>
+      <PokemonSearch name="John Doe" numberOfPokemons={5} />
+      <p>Type the name of a Pokémon and click on the Search button!</p>
     </div>
   );
 }
