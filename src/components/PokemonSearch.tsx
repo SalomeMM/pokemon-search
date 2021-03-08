@@ -75,6 +75,7 @@ export class PokemonSearch extends Component<User, SearchState> {
 
     return (
       <div>
+        <h2>Type the name of a Pokémon and click on the Search button!</h2>
         <p>
           User {userName}
           {""}
